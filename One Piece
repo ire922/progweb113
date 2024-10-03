@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>One Piece</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+        header {
+            background-color: #ffcc00;
+            padding: 10px;
+            text-align: center;
+        }
+        nav {
+            margin: 20px 0;
+        }
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #333;
+        }
+        section {
+            padding: 20px;
+            background-color: #fff;
+            margin: 0 10%;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #ffcc00;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>One Piece</h1>
+    <nav>
+        <a href="#inicio">Inicio</a>
+        <a href="#personajes">Personajes</a>
+        <a href="#historia">Historia</a>
+        <a href="#info">Información</a>
+    </nav>
+</header>
+
+<section id="inicio">
+    <h2>Bienvenido a One Piece</h2>
+    <p>One Piece es un anime y manga creado por Eiichiro Oda. La historia sigue las aventuras de Monkey D. Luffy y su tripulación en busca del tesoro legendario conocido como "One Piece".</p>
+    <img src="https://example.com/onepiece-banner.jpg" alt="One Piece Banner">
+</section>
+
+<section id="personajes">
+    <h2>Personajes Principales</h2>
+    <ul>
+        <li><strong>Monkey D. Luffy:</strong> El protagonista, un joven pirata con el sueño de convertirse en el Rey de los Piratas.</li>
+        <li><strong>Roronoa Zoro:</strong> El espadachín de la tripulación y el primer compañero de Luffy.</li>
+        <li><strong>Nami:</strong> La navegante de la tripulación, experta en cartografía y clima.</li>
+        <li><strong>Usopp:</strong> El francotirador y cuentacuentos del grupo.</li>
+        <li><strong>Sanji:</strong> El cocinero de la tripulación, conocido por su habilidad en la cocina y su estilo de lucha.</li>
+    </ul>
+    <img src="https://example.com/onepiece-crew.jpg" alt="Tripulación de One Piece">
+</section>
+
+<section id="historia">
+    <h2>Historia</h2>
+    <p>La historia de One Piece comienza con el último rey de los piratas, Gol D. Roger, quien dejó un tesoro conocido como "One Piece". Luffy, inspirado por Roger, decide convertirse en pirata y emprende un viaje para encontrar el tesoro y cumplir su sueño.</p>
+    <img src="https://example.com/onepiece-plot.jpg" alt="Historia de One Piece">
+</section>
+
+<section id="info">
+    <h2>Información del Anime</h2>
+    <p>One Piece comenzó a publicarse en 1997 y ha ganado una inmensa popularidad en todo el mundo. Con más de 1000 episodios y múltiples películas, la serie ha dejado una huella indeleble en la cultura del anime. La trama se desarrolla en un mundo lleno de islas, criaturas fantásticas y poderosos piratas.</p>
+    <p>El anime se caracteriza por su mezcla de aventura, humor y emociones, y aborda temas como la amistad, la libertad y la lucha contra la opresión.</p>
+    <img src="https://example.com/onepiece-world.jpg" alt="Mundo de One Piece">
+</section>
+
+<footer>
+    <p>&copy; 2024 Fan de One Piece</p>
+</footer>
+
+</body>
+</html>￼Enter
